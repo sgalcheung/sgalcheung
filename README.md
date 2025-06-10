@@ -1,4 +1,4 @@
-# Hi there, I'm Sgalcheung 👋
+# Hi there, I'm Sgal Cheung 👋
 
 **Software Engineer | Founder of Sgalculture & Explore School**
 
