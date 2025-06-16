@@ -28,4 +28,6 @@ I'm a passionate Software Engineer with a love for building impactful projects a
 
 ---
 
+[![@sgalcheung Astro contributions](https://astro.badg.es/v2/contributor/sgalcheung.svg)](https://astro.badg.es/contributor/sgalcheung/)
+
 > “Never stop exploring. Code, culture, and curiosity drive innovation.”
