@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with a love for building impactful projects a
 
 - 💻 **Languages & Tools:** C#, Astro, and more
 - 🛠️ **Notable Project:** Actively contributing to [starsquid](https://github.com/sgalcheung/starsquid)
-- 📖 **Hobbies:** Reading, coding, and deep thinking
+- 📖 **Hobbies:** Reading, coding, and writing
 
 ---
 
